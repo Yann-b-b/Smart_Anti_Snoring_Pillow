@@ -2,6 +2,7 @@
 
 This project detects snoring and automatically inflates a cushion to adjust head position. Code is partially adapted from [Snoring-Detection by adrianagaler](https://github.com/adrianagaler/Snoring-Detection).
 
+Cushion 3D File Slice View:
 ![Cushion Image](cushion_image.png)
 
 ## Contents
