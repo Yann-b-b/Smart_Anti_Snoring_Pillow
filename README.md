@@ -5,6 +5,8 @@ This project detects snoring and automatically inflates a cushion to adjust head
 Cushion 3D File Slice View:
 ![Cushion Image](cushion_image.png)
 
+Tubing Entry 3d File View:
+![Tubing Entry](cushion_tubing_image.png)
 ## Contents
 - **`train_snoring_model.ipynb`**: Model training and testing notebook.
 - **`training_and_live_testing.ipynb`** (coming soon): Real-time snoring detection.
