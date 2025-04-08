@@ -1,11 +1,15 @@
 # Smart Anti-Snoring Pillow
 
-This repository contains code for a smart anti-snoring pillow. It detects snoring and inflates/deflates a cushion to adjust the user’s head position.
+This project detects snoring and automatically inflates a cushion to adjust head position. Code is partially adapted from [Snoring-Detection by adrianagaler](https://github.com/adrianagaler/Snoring-Detection).
+
+![Cushion Image](cushion_image.png)
 
 ## Contents
-- **`training_and_live_testing.ipynb`**: Adapted from [Snoring-Detection by adrianagaler](https://github.com/adrianagaler/Snoring-Detection). Trains and tests a snoring detection model.
-- **Microphone Arduino Sketch**: Code for reading sound data from a microphone.
-- **3D Files**: STL files for the pillow’s mechanical components.
+- **`train_snoring_model.ipynb`**: Model training and testing notebook.
+- **`training_and_live_testing.ipynb`** (coming soon): Real-time snoring detection.
+- **`cushion_image.png`**: Picture of the prototype pillow.
+- **Microphone Arduino Sketch** (planned): Handles audio input from the microphone.
+- **3D Files** (planned): STL files for 3D-printed components.
 
 ## Usage
 1. Clone this repository:
